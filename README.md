@@ -8,6 +8,6 @@ Basic Understanding of
 
 *Qualifier
 
-*Basic CRUD
+*Basic CRUD,Http Methods
 
 *Data Binding
