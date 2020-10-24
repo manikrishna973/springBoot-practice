@@ -9,4 +9,5 @@ Basic Understanding of
 *Qualifier
 
 *Basic CRUD
+
 *Data Binding
