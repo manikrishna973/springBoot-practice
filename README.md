@@ -11,3 +11,5 @@ Basic Understanding of
 *Basic CRUD,Http Methods
 
 *Data Binding
+
+*N-tier architecture
